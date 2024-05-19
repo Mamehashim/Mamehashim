@@ -6,8 +6,7 @@
 
 
 - 📫 How to reach me @mame_hash in telegram and mamehshim94@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Mamehashim/Mamehashim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
